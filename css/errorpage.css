@@ -1,0 +1,19 @@
+.grid-container {
+  font-family: "Inter", sans-serif;
+  display: grid;
+}
+
+.border-patrol {
+  margin-bottom: 10px;
+  border: 1px black solid;
+  text-decoration: underline;
+}
+
+p {
+  font-size: 12pt;
+  font-family: sans-serif;
+}
+
+html {
+  background-color: whitesmoke;
+}
